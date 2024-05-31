@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037682398807",
+    "project_id": "mad-project-99c07",
+    "storage_bucket": "mad-project-99c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037682398807:android:ae6fd550a7b167c0e0b512",
+        "android_client_info": {
+          "package_name": "com.example.travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPlAXHhWAIh4EJIYeVxd80MGunyQdBt0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
